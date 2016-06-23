@@ -2,6 +2,8 @@
 
 #!/usr/bin/env python
 
+#how to run: sqlite3 test1.db .dump | python dump_for_mysql.py > test1mysql.sql
+
 import re
 import fileinput
 
