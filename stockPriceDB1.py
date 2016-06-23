@@ -1,4 +1,4 @@
-
+#scrapes stock price from yahoo
 
 import urllib
 import re
